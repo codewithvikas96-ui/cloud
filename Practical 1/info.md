@@ -23,6 +23,8 @@ To study Cloud Computing and its architecture and understand different cloud mod
 
 Step 1: Cloud Computing
 
+Cloud computing is a technology that provides computing resources such as servers, storage, databases, software and applications over the internet.
+Users can access these resources whenever they need them without maintaining their own physical infrastructure.
 Cloud Computing provides computing resources like servers, storage, databases and software over the Internet on demand.
 
 Step 2: Benefits
